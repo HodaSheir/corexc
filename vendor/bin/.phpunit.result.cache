@@ -1,0 +1,1 @@
+{"version":1,"defects":{"DataClassTest::testGetData":3,"HotelDataServiceTest::testExtractPropertyInfo":3,"HotelDataServiceTest::testFilterAndChooseCheapest":5},"times":{"DataClassTest::testGetData":0.696,"HotelDataServiceTest::testExtractPropertyInfo":0,"HotelDataServiceTest::testFilterAndChooseCheapest":0}}
