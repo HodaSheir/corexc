@@ -1,0 +1,17 @@
+{
+    "name": "task/c",
+    "autoload": {
+        "psr-4": {
+            "Task\\C\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Author",
+            "email": "author@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.7"
+    }
+}
